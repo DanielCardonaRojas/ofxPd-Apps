@@ -1,0 +1,11 @@
+#N canvas 438 133 514 408 10;
+#X obj 75 310 dac~;
+#X floatatom 398 324 10 0 0 2 Loop_Time - -, f 10;
+#X text 74 24 ChooseInput Channel;
+#X text 171 356 Daniel Cardona 2013;
+#X obj 75 93 adc~ 1;
+#X obj 75 122 LooperVanilla1.21;
+#X connect 4 0 5 0;
+#X connect 5 0 0 0;
+#X connect 5 0 0 1;
+#X connect 5 1 1 0;

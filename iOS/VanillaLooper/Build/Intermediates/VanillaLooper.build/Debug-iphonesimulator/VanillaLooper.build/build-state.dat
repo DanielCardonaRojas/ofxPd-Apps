@@ -1,0 +1,888 @@
+TVanillaLooper
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper normal i386
+cCpResource VanillaLooper/patch/LooperVanilla1.21.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd
+cCpResource VanillaLooper/patch/LooperGUI1.3.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd
+cCopyStringsFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings VanillaLooper/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Images.xcassets
+cProcessInfoPlistFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist
+cGenerateDSYMFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper
+cTouch /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005353FC180000000000000198
+t1398012952
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005335E5BC00000000000003B4
+t1396041148
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005335E5CA000000000000019E
+t1396041162
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005335E5CD0000000000484210
+t1396041165
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c000000005335E5CC0000000000098030
+t1396041164
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005335E5CE0000000000904120
+t1396041166
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005335E5CD000000000058E0E0
+t1396041165
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000005335E5CD00000000000FB140
+t1396041165
+s1028416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005335E5CD00000000005B82F0
+t1396041165
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005353FACD0000000000446820
+t1398012621
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005335E5CE00000000003599D0
+t1396041166
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c000000005335E5CE00000000000CF090
+t1396041166
+s848016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005335E5CE000000000013B8C0
+t1396041166
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005335E5CF00000000002FC3B0
+t1396041167
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005335E5CF000000000004B000
+t1396041167
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005335E5D1000000000088D8C0
+t1396041169
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+c000000005335E5D30000000000666DB0
+t1396041171
+s6712752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005335E5D40000000000037680
+t1396041172
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005335E5D4000000000048F720
+t1396041172
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005335E5D4000000000013FD70
+t1396041172
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005335E5DA0000000001F1DE10
+t1396041178
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005335E5F200000000002BC360
+t1396041202
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005335E5FF0000000000002338
+t1396041215
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005335E601000000000008D370
+t1396041217
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005335E6010000000000392E20
+t1396041217
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005335CCBD00000000000141F0
+t1396034749
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005335E6010000000000014A80
+t1396041217
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005335E6020000000000033BA0
+t1396041218
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005335E602000000000001CFB0
+t1396041218
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005335E602000000000001B2B0
+t1396041218
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005335E60200000000000C9570
+t1396041218
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005335E6020000000000063280
+t1396041218
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005335E6020000000000008880
+t1396041218
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005335E6020000000000015080
+t1396041218
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005335E60200000000000230F0
+t1396041218
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005335E602000000000000E380
+t1396041218
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005335E6020000000000089380
+t1396041218
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005335E6020000000000017320
+t1396041218
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005335E6020000000000039CD0
+t1396041218
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005335E602000000000000B0B0
+t1396041218
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005335E6020000000000167E80
+t1396041218
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005335E60200000000000106A0
+t1396041218
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005335E602000000000001CE40
+t1396041218
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005335E60200000000000740C0
+t1396041218
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005335E602000000000006CA60
+t1396041218
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005335E602000000000001BAD0
+t1396041218
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005335E6020000000000084A20
+t1396041218
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005335E6520000000000000ADC
+t1396041298
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005353FACF000000000000514C
+t1398012623
+s20812
+
+N/Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.h
+c0000000053AB068D0000000000000798
+t1403717261
+s1944
+
+N/Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m
+c0000000053AAFE800000000000001369
+t1403715200
+s4969
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch
+t1403734572
+s126720
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o
+t1403746524
+s29184
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o
+t1403734574
+s65412
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o
+t1403796029
+s72404
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VanillaLooper.LinkFileList
+c0000000053AB4A2B0000000000000291
+t1403734571
+s657
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o
+t1403734574
+s3788
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_dependencies.txt
+t1403734588
+s425
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_generated_info.plist
+t1403734588
+s525
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app
+t1403796030
+s374
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM
+t1403796030
+s102
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Base.lproj/Main.storyboardc
+t1403743453
+s170
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist
+t1403734591
+s1036
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd
+t1403734576
+s307
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd
+t1403734576
+s8185
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/PkgInfo
+t1403734591
+s8
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper
+t1403796030
+s1270960
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings
+t1403734576
+s42
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/libpd-ios.a
+c0000000053AB4A2B00000000002F8EA8
+t1403734571
+s3116712
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.h
+c0000000053AB068D0000000000000798
+t1403717261
+s1944
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.m
+c0000000053AAFE800000000000001369
+t1403715200
+s4969
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard
+c0000000053AB6B59000000000000272C
+t1403743065
+s10028
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/Images.xcassets
+c0000000053AB3E7C0000000000000088
+t1403731580
+s136
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.h
+c0000000053AB40E80000000000000185
+t1403732200
+s389
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m
+c0000000053AB4215000000000000095E
+t1403732501
+s2398
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.h
+c0000000053AB704800000000000003DD
+t1403744328
+s989
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.m
+c0000000053AC3A3A00000000000015DD
+t1403796026
+s5597
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist
+c0000000053AB3E7C00000000000004CE
+t1403731580
+s1230
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VanillaLooper-Prefix.pch
+c0000000053AB3E7C0000000000000158
+t1403731580
+s344
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/en.lproj/InfoPlist.strings
+c0000000053AB3E7C000000000000002D
+t1403731580
+s45
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/main.m
+c0000000053AB3E7C0000000000000158
+t1403731580
+s344
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/patch/LooperGUI1.3.pd
+c0000000053AB3D6F0000000000000133
+t1403731311
+s307
+
+N/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/patch/LooperVanilla1.21.pd
+c0000000053AB3D030000000000001FF9
+t1403731203
+s8185
+
+N/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioController.h
+c000000005385637A0000000000000BF7
+t1401250682
+s3063
+
+N/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioUnit.h
+c000000005385637A0000000000000571
+t1401250682
+s1393
+
+N/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdBase.h
+c000000005385637A0000000000001274
+t1401250682
+s4724
+
+N/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdDispatcher.h
+c000000005385637A00000000000005C4
+t1401250682
+s1476
+
+N/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdFile.h
+c0000000053964635000000000000042E
+t1402357301
+s1070
+
+N/usr/lib/libSystem.B.dylib
+c000000005335CCA1000000000000E6D0
+t1396034721
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005335CCBD0000000000012A00
+t1396034749
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005335CC89000000000002E320
+t1396034697
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005335CCA10000000000021860
+t1396034721
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005335CCBB000000000001B620
+t1396034747
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005335CCBB00000000000BD920
+t1396034747
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005335CCBD00000000000141F0
+t1396034749
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005335CCBD000000000000A120
+t1396034749
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000528980F2000000000001D550
+t1384743154
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005335CCBB0000000000014EE0
+t1396034747
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005335CCC00000000000010380
+t1396034752
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005335CCC0000000000000C4C0
+t1396034752
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005335CCBD00000000000357A0
+t1396034749
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005335CCBD000000000000C070
+t1396034749
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005335CCA10000000000168D00
+t1396034721
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005335CCBB0000000000010630
+t1396034747
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005335CCBE000000000001DF10
+t1396034750
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005335CCA10000000000075B00
+t1396034721
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005335CCA1000000000007CCE0
+t1396034721
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005335CCA100000000000766C0
+t1396034721
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005335CCBD0000000000044DC0
+t1396034749
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005335CCA10000000000021FA0
+t1396034721
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005335CCBE000000000002D920
+t1396034750
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005335CCBE000000000001E570
+t1396034750
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005335CCAF000000000000CC70
+t1396034735
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005335CCB3000000000000C3F0
+t1396034739
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005335CCBE00000000000199F0
+t1396034750
+s104944
+
+CBuild AST from /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m
+r0
+
+CBuild AST from /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/PdPatchArray.m
+r0
+
+CBuild AST from /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m
+r0
+
+CBuild AST from /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLViewController.m
+r0
+
+CBuild AST from /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7b49abd2715cb941^1e8dabd2715cb941^---0#1#1#--18"Check dependencies36"A8E12DBD-1051-4195-926B-4518167CCD8B-
+
+CCompileAssetCatalog /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Images.xcassets
+s425427376.837469
+e425427388.815732
+r1
+xCompileAssetCatalog
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/Images.xcassets
+o2014-06-25 17:16:27.183 IBCocoaTouchImageCatalogTool[1246:303] CFPreferences: user home directory at file:///Users/egiraldo23/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LaunchImage-700-568h@2x.png
+o/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Assets.car
+o/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/VanillaLooper.app VanillaLooper/Images.xcassets104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/VanillaLooper.app VanillaLooper/Images.xcassetsb77ad6b0815bb941^aef2d0bc815bb941^-681"2014-06-25 17:16:27.183 IBCocoaTouchImageCatalogTool[1246:303] CFPreferences: user home directory at file:///Users/egiraldo23/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LaunchImage-700-568h@2x.png/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Assets.car/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/Images.xcassets/0000000000000000^1237"CompileAssetCatalog Build/Products/Debug-iphonesimulator/VanillaLooper.app VanillaLooper/Images.xcassets    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Images.xcassets36"1DD1D975-0DF9-4110-B210-A69380B96DDE-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425427372.863632
+e425427373.740701
+r1
+xCompileC
+xBuild/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o
+x/Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m
+d/Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdFile.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdDispatcher.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdBase.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m258"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7441ddac815bb941^c79ebdad815bb941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m0000000000000000^7129"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -include /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.d --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.dia -c /Users/egiraldo23/Desktop/GuitarTuner/GuitarTuner/PdPatchArray.m -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o36"BAB14458-006E-4589-8628-DD926A11E928-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425439323.609799
+e425439324.779135
+r1
+xCompileC
+xBuild/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.m
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdFile.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdDispatcher.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdBase.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.m208"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2f529c5bb05bb941^2079c75cb05bb941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/PdPatchArray.m0000000000000000^7078"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o PdPatchArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -include /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.d --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.dia -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/PdPatchArray.m -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o36"8BD3B32D-CF8D-4164-B79D-3406BD63A6BD-
+bDE16D61F-4955-4A3F-8288-CFE1771EEF4B
+
+CCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425427372.864452
+e425427374.205608
+r1
+xCompileC
+xBuild/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioController.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioUnit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m224"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o VanillaLooper/VLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerde72ddac815bb941^ef9234ae815bb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m0000000000000000^7112"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o VanillaLooper/VLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -include /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.d --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.dia -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLAppDelegate.m -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o36"28E9BDD0-FC56-4CB0-A712-343F2663A8B2-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425488829.836860
+e425488829.973204
+r1
+xCompileC
+xBuild/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.m
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdDispatcher.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdBase.h
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/PdPatchArray.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdFile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLViewController.m230"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o VanillaLooper/VLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d70d6bd715cb941^793cf9bd715cb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/VLViewController.m0000000000000000^7130"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o VanillaLooper/VLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -include /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.d --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.dia -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VLViewController.m -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o36"F980A9CE-33C3-47AA-8D9D-6109BBCE294E-
+bAE087A69-D6B1-4D20-895C-C6580716EE45
+
+CCompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425427374.206292
+e425427374.294108
+r1
+xCompileC
+xBuild/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/main.m
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VLAppDelegate.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioController.h
+d/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc/PdAudioUnit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/main.m206"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o VanillaLooper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler40f834ae815bb941^e84b4bae815bb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/main.m0000000000000000^7058"CompileC Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o VanillaLooper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -include /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.dia -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/main.m -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o36"513DAA47-FB0C-42DB-9FE5-2815D204C3AB-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCompileStoryboard /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard
+s425436249.401346
+e425436253.799106
+r1
+xCompileStoryboard
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard
+o2014-06-25 19:44:13.524 Interface Builder Cocoa Touch Tool[2036:303] CFPreferences: user home directory at file:///Users/egiraldo23/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard VanillaLooper/Base.lproj/Main.storyboard58"CompileStoryboard VanillaLooper/Base.lproj/Main.storyboardf0dd6659a45bb941^cd92cc5da45bb941^-234"2014-06-25 19:44:13.524 Interface Builder Cocoa Touch Tool[2036:303] CFPreferences: user home directory at file:///Users/egiraldo23/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard0000000000000000^888"CompileStoryboard VanillaLooper/Base.lproj/Main.storyboard    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Base.lproj/Main.storyboardc /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/Base.lproj/Main.storyboard36"2870125C-136D-4934-B3A8-C189D9E8AF36-
+bBA73959A-13A4-4B01-B613-B210F06D01C9
+
+CCopyStringsFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings VanillaLooper/en.lproj/InfoPlist.strings
+s425427376.801470
+e425427376.837220
+r1
+xCopyStringsFile
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings
+xVanillaLooper/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy VanillaLooper/en.lproj/InfoPlist.strings138"CopyStringsFile Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings VanillaLooper/en.lproj/InfoPlist.strings9d85cdb0815bb941^7e55d6b0815bb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/en.lproj/InfoPlist.strings0000000000000000^638"CopyStringsFile Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj/InfoPlist.strings VanillaLooper/en.lproj/InfoPlist.strings    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/en.lproj -- VanillaLooper/en.lproj/InfoPlist.strings36"B203F1CF-4EE1-499B-8626-A4DAD15E06EB-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCpResource VanillaLooper/patch/LooperGUI1.3.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd
+s425427376.752727
+e425427376.800975
+r1
+xCpResource
+xVanillaLooper/patch/LooperGUI1.3.pd
+xBuild/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd117"CpResource VanillaLooper/patch/LooperGUI1.3.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd4cc7c0b0815bb941^4a0dcdb0815bb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd00348ccdddffdf42^671"CpResource VanillaLooper/patch/LooperGUI1.3.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperGUI1.3.pd    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/patch/LooperGUI1.3.pd /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app36"274CCA06-7F04-43B4-9D65-23DD46B20DA1-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CCpResource VanillaLooper/patch/LooperVanilla1.21.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd
+s425427376.753163
+e425427376.801269
+r1
+xCpResource
+xVanillaLooper/patch/LooperVanilla1.21.pd
+xBuild/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd127"CpResource VanillaLooper/patch/LooperVanilla1.21.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd71e5c0b0815bb941^5c20cdb0815bb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd00348ccdddffdf42^686"CpResource VanillaLooper/patch/LooperVanilla1.21.pd Build/Products/Debug-iphonesimulator/VanillaLooper.app/LooperVanilla1.21.pd    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/patch/LooperVanilla1.21.pd /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app36"FE555B34-05A8-4E6F-ACC4-E06601E7423D-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CGenerateDSYMFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper
+s425488830.118319
+e425488830.243850
+r1
+xGenerateDSYMFile
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM145"GenerateDSYMFile Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooperff5a1ebe715cb941^ad6d3ebe715cb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM/0000000000000000^728"GenerateDSYMFile Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app.dSYM36"4F10E46C-8608-48F6-882E-9EBDFF03C6B3-
+bAE087A69-D6B1-4D20-895C-C6580716EE45
+
+CLd /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper normal i386
+s425488829.976506
+e425488830.115430
+r1
+xLd
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper
+xnormal
+xi386
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VanillaLooper.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/PdPatchArray.o
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLAppDelegate.o
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VLViewController.o
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/main.o
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/libpd-ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper83"Ld Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper normal i386b612fabd715cb941^90be1dbe715cb941^---0#0#1#--1656"Ld Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper normal i386    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator -filelist /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VanillaLooper.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/libpd-ios.a -framework AudioToolbox -framework AVFoundation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/Objects-normal/i386/VanillaLooper_dependency_info.dat -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/VanillaLooper36"47133183-27B6-4032-875D-529DE7692B13-
+bAE087A69-D6B1-4D20-895C-C6580716EE45
+
+CProcessInfoPlistFile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist
+s425427391.355994
+e425427391.383626
+r1
+xProcessInfoPlistFile
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist125"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist VanillaLooper/VanillaLooper-Info.plist193d5bbf815bb941^e94862bf815bb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist0000000000000000^987"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist VanillaLooper/VanillaLooper-Info.plist    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VanillaLooper-Info.plist -genpkginfo /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/assetcatalog_generated_info.plist -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app/Info.plist36"C553F95A-8745-4E0C-AAF4-5D6C54D33835-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CProcessPCH /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425427371.173908
+e425427372.862509
+r1
+xProcessPCH
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch
+xVanillaLooper/VanillaLooper-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/VanillaLooper/VanillaLooper-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile VanillaLooper/VanillaLooper-Prefix.pch235"ProcessPCH Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4bb02cab815bb941^42cddcac815bb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/egiraldo23/Desktop/ios%20Dev/VanillaLooper/VanillaLooper/VanillaLooper-Prefix.pch0000000000000000^6963"ProcessPCH Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/egiraldo23/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-generated-files.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-own-target-headers.hmap -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-all-target-headers.hmap -iquote /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/VanillaLooper-project-headers.hmap -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/cpp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharptests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/dist -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libpd_wrapper -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/libs -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/objc -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/python -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Native -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/csharp/Properties -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/bonk~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/choice -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/expr~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/fiddle~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/loop~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/lrshift~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pd~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/pique -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/sigmund~ -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/pure-data/extra/stdout -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/c_samples/c -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/pd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/cppTest/src -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/processing -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/java/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/javatests/org/puredata/core/utils -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd -iquote/Users/egiraldo23/Desktop/pd-for-ios/libpd/samples/com/noisepages/nettoyeur/libpd/sample -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources/i386 -I/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/VanillaLooper.build/Debug-iphonesimulator/VanillaLooper.build/DerivedSources -F/Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.dia -MMD -MT dependencies -MF /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.d -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/VanillaLooper/VanillaLooper-Prefix.pch -o /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-dokvkwdksrqmiufexoazhehjuval/VanillaLooper-Prefix.pch.pch36"5D21CE35-CFD0-4689-BB26-6C9E94EB0919-
+b2638BC19-C2C7-49B2-95EA-78661E634D6A
+
+CProcessPCH /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Intermediates/PrecompiledHeaders/VanillaLooper-Prefix-eyvrtraasqgkqragipboxkmnocyw/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/egiraldo23/Library/Developer/Xcode/DerivedData/VanillaLooper-fkfghalzbagddlfegthxlkqqcdpf/Index/PrecompiledHeaders/VanillaLooper-Prefix-byoffgbgzcsmjldrpwsiuckhmnxn_ast/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/egiraldo23/Library/Developer/Xcode/DerivedData/VanillaLooper-fkfghalzbagddlfegthxlkqqcdpf/Index/PrecompiledHeaders/VanillaLooper-Prefix-ffqhlhnxuqpiwlhbmeppwyorjcgo_ast/VanillaLooper-Prefix.pch.pch VanillaLooper/VanillaLooper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app
+s425436253.966539
+e425436254.043262
+r1
+xTouch
+x/Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/egiraldo23/Desktop/ios Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app60"Touch Build/Products/Debug-iphonesimulator/VanillaLooper.app6780f75da45bb941^ec140b5ea45bb941^---0#0#1#--439"Touch Build/Products/Debug-iphonesimulator/VanillaLooper.app    cd "/Users/egiraldo23/Desktop/ios Dev/VanillaLooper"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/egiraldo23/Desktop/ios\ Dev/VanillaLooper/Build/Products/Debug-iphonesimulator/VanillaLooper.app36"0991B2A0-8FB3-48A6-855F-E915756F1AE4-
+bBA73959A-13A4-4B01-B613-B210F06D01C9
+
